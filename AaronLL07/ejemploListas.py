@@ -1,6 +1,10 @@
-lista = ["Aaron", "Axel", "Antonio", "Ronaldo"]
+nombre = "Aarón"
+mesNacimiento = "Julio"
+numero = 8126448277
 
-print(lista[1])
-print("Todos los nombres")
+lista = [nombre, mesNacimiento, numero]
+
 for i in lista:
     print(i)
+
+print(type(lista))
