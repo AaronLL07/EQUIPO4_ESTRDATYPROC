@@ -1,4 +1,4 @@
-# Ejemplo 1: Lista
+# Ejemplo 1: Listas
 
 nombre="Claudia"
 mes_nacimiento="Abril"
