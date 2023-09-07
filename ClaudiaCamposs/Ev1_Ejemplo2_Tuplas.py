@@ -1,7 +1,7 @@
 # Ejemplo 2: Tupla
 
-colores=("Verde","Morado","Azul","Cafe","Rosa")
-for x in colores:
+deportes=("Tenis","Natación","Baloncesto","Fútbol","Golf")
+for x in deportes:
 	print(x)
 
-print(type(colores))
+print(type(deportes))
