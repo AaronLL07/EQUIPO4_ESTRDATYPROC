@@ -1,11 +1,12 @@
-# Ejemplo 1: Listas
+# Ejemplo 1: Lista
 
 nombre="Claudia"
 mes_nacimiento="Abril"
-numero=81356777
-Lista=["Claudia","Abril",81356777]
+telefono=81356777
 
-for x in Lista:
+lista=["Claudia","Abril",81356777]
+
+for x in lista:
  print(x)
 
-print(type(Lista))
+print(type(lista))
